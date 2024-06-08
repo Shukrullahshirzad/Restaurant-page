@@ -12,7 +12,7 @@ module.exports = {
     },
     plugins: [
         new HtmlWebpackPlugin({
-            title: 'Some Restaurant',
+            title: 'Rose Restaurant',
             filename: 'index.html',
             template: 'src/index.html',
         }
